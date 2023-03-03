@@ -1,3 +1,15 @@
 body{
-    background-color: darkgray;
+    background-color: skyblue;
+}
+image{ 
+    border-width:5px;
+    border-color:black(0, 0, 0);
+    border-style: solid;
+    border-radius:45px;
+}
+p { 
+    font-family:cursive;
+}
+h2{ 
+    text-color:White;
 }
