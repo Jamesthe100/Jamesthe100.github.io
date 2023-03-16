@@ -1,5 +1,6 @@
 body{
     background-color: skyblue;
+    float:left;
 }
 image{ 
     border-width:5px;
@@ -11,5 +12,5 @@ p {
     font-family:cursive;
 }
 h2{ 
-    text-color:White;
+    color:White;
 }
